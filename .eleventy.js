@@ -133,6 +133,8 @@ module.exports = function (config) {
 
   config.addPassthroughCopy("favicon.ico");
 
+  config.addPassthroughCopy({ static: "/" });
+
   return {
     // Control which files Eleventy will process
     // e.g.: *.md, *.njk, *.html, *.liquid
