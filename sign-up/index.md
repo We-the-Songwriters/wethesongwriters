@@ -11,7 +11,7 @@ Interested in getting involved? Here's what to know.
 
 <h2>Getting started</h2>
 
-Fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSdHpSIEM82slzVi-TAd3J7A7gwCufwK0V0KVQr3SDFGMVLmVw/viewform?usp=header">sign up form</a> to tell us you're interested, either as a songwriter or federal employee. We'll collect a few details to help us match you with your songwriting partner.
+Fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSdHpSIEM82slzVi-TAd3J7A7gwCufwK0V0KVQr3SDFGMVLmVw/viewform?usp=header">sign up form</a> to tell us you're interested, either as a songwriter, current or former federal employee, or anyone else affected by new policies. We'll collect a few details to help us match you with your songwriting partner.
 
 <h2>What's next</h2>
 
