@@ -12,7 +12,12 @@
       >
     </h3>
     <p class="usa-collection__description">
-      {{ post.templateContent }}
+      {{ post.data.excerpt }}
+      <p>
+      {% if post.data.embed %}
+        {% include "youtube.html" %} 
+      {% endif %}
+      </p> 
     </p>
     <ul class="usa-collection__meta" aria-label="More information">
       <li class="usa-collection__meta-item">
