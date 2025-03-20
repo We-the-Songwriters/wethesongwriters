@@ -1,5 +1,5 @@
 ---
-title: Document
+title: Code of Conduct
 layout: layouts/page
 permalink: /conduct/
 sidenav: false
