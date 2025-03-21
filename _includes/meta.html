@@ -38,7 +38,7 @@ to modify some of the meta-data for the site, this is the place to do it.
   <meta property="og:url" content="{{ pageUrl }}" />
   <link rel="icon" href="/favicon.ico" type="image/x-icon" sizes="64x64">
 
-  {% if process.env.ELEVENTY_ENV == "production" %}
+  {% if env.ELEVENTY_ENV == "production" %}
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-XG6JV8RE12"></script>
     <script>
