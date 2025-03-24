@@ -16,7 +16,9 @@
       <p>
       {% if post.data.embed %}
         {% include "youtube.html" %} 
-      {% endif %}
+      {% elsif post.data.audio-ogg or post.data.audio-mp3 %}
+        {% include "audio.html" %}
+      {% endif %}  
       </p> 
     </p>
     <ul class="usa-collection__meta" aria-label="More information">
