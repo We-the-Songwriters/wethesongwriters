@@ -1,0 +1,5 @@
+<audio controls autoplay muted>
+    <source src="{% if audio-ogg %} {{ audio-ogg }} {% else %} {{ post.data.audio-ogg }} {% endif %}" type="audio/ogg">
+    <source src="{% if audio-mp3 %} {{ audio-mp3 }} {% else %} {{ post.data.audio-mp3 }} {% endif %}" type="audio/mpeg">
+  Your browser does not support the audio element.
+  </audio>
