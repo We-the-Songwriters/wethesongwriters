@@ -1,5 +1,5 @@
 ---
-title: Auntie's Chocolate Pie
+title: Auntie's Chocolate Pie (example)
 description: 
 layout: layouts/post
 date: 2025-03-01
