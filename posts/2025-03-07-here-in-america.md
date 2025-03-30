@@ -1,5 +1,5 @@
 ---
-title: Here in America (We've Got Love On Our Side)
+title: Here in America (We've Got Love On Our Side) (example)
 description: 
 layout: layouts/post
 date: 2025-03-07

@@ -1,5 +1,5 @@
 ---
-title: The Great Divide
+title: The Great Divide (example)
 description: 
 layout: layouts/post
 date: 2025-03-02
