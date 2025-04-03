@@ -4,12 +4,12 @@ description:
 layout: layouts/post
 date: 2025-04-02
 author: Stan Davis
-excerpt: I give permission for people to sing this song I wrote. (Lyrics available on the song page.)
+excerpt: I connected with a federal employee in Oregon. This is his story. (Lyrics available on the song page.)
 embed: "https://www.youtube.com/embed/CyfCd3FLhOE?si=xjdXSqUD2-eG2-eB"
 tags:
   - posts
 ---
-I give permission for people to sing this song I wrote. 
+I connected with a federal employee in Oregon. This is his story.
 
 {% include "youtube.html" %}
 
