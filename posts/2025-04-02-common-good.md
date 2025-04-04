@@ -5,7 +5,7 @@ layout: layouts/post
 date: 2025-04-02
 author: Stan Davis
 excerpt: I connected with a federal employee in Oregon. This is his story. (Lyrics available on the song page.)
-embed: "https://www.youtube.com/embed/CyfCd3FLhOE?si=xjdXSqUD2-eG2-eB"
+embed: "https://www.youtube.com/embed/4SyGNPG9HU4?si=MMaT2cRbZE2A2scb"
 tags:
   - posts
 ---
